@@ -1,9 +1,9 @@
-# CPPookieDump
-C++ implementation of [WhiteChocolateMacadamiaNut](https://github.com/slyd0g/WhiteChocolateMacademiaNut).
+## README
+- C++ implementation of [WhiteChocolateMacadamiaNut](https://github.com/slyd0g/WhiteChocolateMacademiaNut).
 
-Dumps cookies from Google Chrome when launched with remote debugging enabled.
+- Utilizes [cpprestsdk](https://github.com/microsoft/cpprestsdk) to interact with websockets and dump cookies from Google Chrome when launched with remote debugging enabled.
 
-Utilizes [cpprestsdk](https://github.com/microsoft/cpprestsdk) to interact with websockets.
+![virustotal](vt.png)
 
 ## Usage
 `cppookiedump.exe <port>` 
