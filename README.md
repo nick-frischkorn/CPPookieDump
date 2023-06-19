@@ -7,3 +7,5 @@
 
 ## Usage
 `cppookiedump.exe <port>` 
+
+![dump](dump.png)
